@@ -16,7 +16,7 @@ numberMap = {
 
 def floorKey(d,k):
     '''
-    returns the smallest key less than or equal to
+    returns the largest key less than or equal to
     the given key in the provided dictionary
     Utility fucntion for intToRoman(n)
     '''
