@@ -2,7 +2,7 @@ from telegram.ext import Updater, CommandHandler, MessageHandler
 from telegram.ext import Filters, RegexHandler,ConversationHandler
 from telegram import ReplyKeyboardMarkup,ReplyKeyboardRemove
 import requests as  r 
-import logging,sys,time
+import logging
 import telegram
 import re as regex
 import telegram_config as bot_config
