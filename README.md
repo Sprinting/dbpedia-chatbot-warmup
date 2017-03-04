@@ -21,3 +21,10 @@
  Register if you're not alreadly registerd with Wolfram-Aplha and request a new app id
 
  Non-Commerical Apps are limited to 2000 API calls/mo
+
+## Skeleton Code from
+
+  For the bot code
+      https://github.com/python-telegram-bot/python-telegram-bot/blob/master/examples/conversationbot.py
+  For the wrapper
+      Examples inculded with the wrapper download
